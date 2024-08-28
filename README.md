@@ -18,8 +18,8 @@ I'm currently pursuing a degree in **Mechatronics/Automation Engineering** at Un
   - Raspberry Pi 4: Experience in deploying and optimizing vision models.
 
 ### 🏆 Achievements
-- [**RoboCore Experience (CPXP 16, São Paulo)](https://github.com/UnbDroid/TREEKING2K24):** Participated as a C++ programmer in the Trekking category, helping the team secure a 6th place finish. I also played a role in optimizing the YOLO model for real-time performance on Raspberry Pi 4.
-- [**SEK (LARC 2023, Salvador)](https://github.com/UnbDroid/Sek2023):** Participated as a Python programmer in the IEEE SEK category of the Latin America Robotics Competition, helping my team achieve a 3rd place finish continent-wise.
+- [**RoboCore Experience (CPXP 16, São Paulo):**](https://github.com/UnbDroid/TREEKING2K24) Participated as a C++ programmer in the Trekking category, helping the team secure a 6th place finish. I also played a role in optimizing the YOLO model for real-time performance on Raspberry Pi 4.
+- [**SEK (LARC 2023, Salvador):**](https://github.com/UnbDroid/Sek2023) Participated as a Python programmer in the IEEE SEK category of the Latin America Robotics Competition, helping my team achieve a 3rd place finish continent-wise.
 
 ### 💡 Interests
 - **Control Systems:** Always looking for innovative ways to control and automate systems.
