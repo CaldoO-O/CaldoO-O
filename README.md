@@ -17,17 +17,11 @@ And I also like K.K. Slider
 
 </div>
 
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaldoO-O&theme=dark)
-![My GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=CaldoO-O&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaldoO-O&theme=dark" height="200"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=CaldoO-O&theme=dark" height="200"/>
+</div>
 
 ### 🏆 Achievements
 - [**RoboCore Experience (CPXP 16, São Paulo):**](https://github.com/UnbDroid/TREEKING2K24) Participated as a C++ programmer in the Trekking category, helping the team secure a 6th place finish. I also played a role in optimizing the YOLO model for real-time performance on Raspberry Pi 4.
 - [**SEK (LARC 2023, Salvador):**](https://github.com/UnbDroid/Sek2023) Participated as a Python programmer in the IEEE SEK category of the Latin America Robotics Competition, helping my team achieve a 3rd place finish continent-wise.
-
-### 💡 Interests
-- **Control Systems:** Always looking for innovative ways to control and automate systems.
-- **Open Source:** Enthusiastic about contributing to open-source projects and learning from the community.
-- **Software Optimization:** Passionate about enhancing performance in constrained environments.
