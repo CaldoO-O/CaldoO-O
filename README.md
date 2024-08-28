@@ -35,8 +35,3 @@ I'm currently pursuing a degree in **Mechatronics/Automation Engineering** at Un
 - **Control Systems:** Always looking for innovative ways to control and automate systems.
 - **Open Source:** Enthusiastic about contributing to open-source projects and learning from the community.
 - **Software Optimization:** Passionate about enhancing performance in constrained environments.
-
-### 🌐 Contact & Connect
-- **Email:** [ggcaldo@gmail.com](mailto:ggcaldo@gmail.com)
-- **LinkedIn:** [Gabriel Caldo](https://www.linkedin.com/in/gabriel-caldo/)
-- **GitHub:** [CaldoO-O](https://github.com/CaldoO-O)
