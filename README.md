@@ -1,14 +1,24 @@
+<div align="center">
+
 # 👋 Hello! I'm [Gabriel Caldo](https://github.com/CaldoO-O)
 
 🎓 **Engineering Student** | **C++/Python Developer** | **Mecatronics & Automation** | **Robotics Enthusiast**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Caldo-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-caldo/)
+[![Gmail](https://img.shields.io/badge/Gmail-ggcaldo%40gmail.com-red?logo=gmail)](mailto:ggcaldo@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/CaldoO-O?style=social)](https://github.com/CaldoO-O)
+[![Profile Views](https://komarev.com/ghpvc/?username=CaldoO-O&color=blueviolet)](https://github.com/CaldoO-O)
 
-## 🚀 About Me
+</div>
 
-I'm currently pursuing a degree in **Mechatronics/Automation Engineering** at Universidade de Brasília (UnB), where I've been sharpening my skills and passion for robotics and automation since early 2023. My journey in technology started back in 2020 with self-taught studies in **Arduino** programming, which laid the foundation for my current expertise.
+## 🧑 About Me
 
-### 🎯 Key Areas of Expertise
+I'm currently pursuing a degree in **Mechatronics/Automation Engineering** at Universidade de Brasília (UnB), where I've been developing my skills and passion for robotics and automation since early 2023. My journey in technology started back in 2020 with self-taught studies in **Arduino** programming, which pushed me forward on the path I'm following today.
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaldoO-O&theme=dark)
+![My GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=CaldoO-O&theme=dark)
+
+### 💻 Key Areas of Expertise
 - **Programming Languages:** 
   - C++: Major contributions in robotics and automation projects.
   - Python: Experience in both robotics and general programming.
@@ -30,7 +40,3 @@ I'm currently pursuing a degree in **Mechatronics/Automation Engineering** at Un
 - **Email:** [ggcaldo@gmail.com](mailto:ggcaldo@gmail.com)
 - **LinkedIn:** [Gabriel Caldo](https://www.linkedin.com/in/gabriel-caldo/)
 - **GitHub:** [CaldoO-O](https://github.com/CaldoO-O)
-
----
-
-Let's create something amazing together!
