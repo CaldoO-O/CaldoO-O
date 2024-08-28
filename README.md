@@ -12,14 +12,14 @@ I'm currently pursuing a degree in **Mechatronics/Automation Engineering** at Un
 - **Programming Languages:** 
   - C++: Major contributions in robotics and automation projects.
   - Python: Experience in both robotics and general programming.
-- **Robotics:** Active member and financial coordinator of the [Droid Team](https://github.com/DroidTeam-UnB), specializing in robot movement control, C++ and Python programming.
+- **Robotics:** Active member and financial coordinator of [Equipe DROID](https://github.com/UnbDroid), specializing in robot movement control, C++ and Python programming.
 - **Hardware:** 
   - Arduino Mega: Expertise in robot movement programming.
   - Raspberry Pi 4: Experience in deploying and optimizing vision models.
 
 ### 🏆 Achievements
-- **RoboCore Experience (CPXP 16, São Paulo):** Participated as a C++ programmer in the Trekking category, helping the team secure a 6th place finish. I also played a role in optimizing the YOLO model for real-time performance on Raspberry Pi 4.
-- **SEK (LARC 2023, Salvador):** Participated as a Python programmer in the IEEE SEK category of the Latin America Robotics Competition, helping my team achieve a 3rd place finish continent-wise.
+- [**RoboCore Experience (CPXP 16, São Paulo)](https://github.com/UnbDroid/TREEKING2K24):** Participated as a C++ programmer in the Trekking category, helping the team secure a 6th place finish. I also played a role in optimizing the YOLO model for real-time performance on Raspberry Pi 4.
+- [**SEK (LARC 2023, Salvador)](https://github.com/UnbDroid/Sek2023):** Participated as a Python programmer in the IEEE SEK category of the Latin America Robotics Competition, helping my team achieve a 3rd place finish continent-wise.
 
 ### 💡 Interests
 - **Control Systems:** Always looking for innovative ways to control and automate systems.
