@@ -6,7 +6,6 @@
 
 And I also like K.K. Slider 😁
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Caldo-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-caldo/)
 [![Gmail](https://img.shields.io/badge/Gmail-ggcaldo%40gmail.com-red?logo=gmail)](mailto:ggcaldo@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/CaldoO-O?style=social)](https://github.com/CaldoO-O)
 [![Profile Views](https://komarev.com/ghpvc/?username=CaldoO-O&color=blueviolet)](https://github.com/CaldoO-O)
