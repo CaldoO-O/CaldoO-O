@@ -4,8 +4,6 @@
 
 🎓 **Engineering Student** | 💻 **C++/Python Developer** | ⚙️ **Mechatronics & Automation** | 🤖 **Robotics Enthusiast**
 
-And I also like K.K. Slider 😁
-
 [![Gmail](https://img.shields.io/badge/Gmail-ggcaldo%40gmail.com-red?logo=gmail)](mailto:ggcaldo@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/CaldoO-O?style=social)](https://github.com/CaldoO-O)
 [![Profile Views](https://komarev.com/ghpvc/?username=CaldoO-O&color=blueviolet)](https://github.com/CaldoO-O)
@@ -13,7 +11,6 @@ And I also like K.K. Slider 😁
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaldoO-O&theme=dark" height="200"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=CaldoO-O&theme=dark" height="200"/>
 </div>
 
