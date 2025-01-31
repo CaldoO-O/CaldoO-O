@@ -10,10 +10,6 @@ And I also like K.K. Slider 😁
 [![GitHub followers](https://img.shields.io/github/followers/CaldoO-O?style=social)](https://github.com/CaldoO-O)
 [![Profile Views](https://komarev.com/ghpvc/?username=CaldoO-O&color=blueviolet)](https://github.com/CaldoO-O)
 
-<img src="https://www.startpage.com/av/proxy-image?piurl=http%3A%2F%2Fwww.comotrabalhar.org%2Fwp-content%2Fuploads%2F2016%2F02%2Ftrabalhar-na-UnB.png&sp=1724857270T15a3044f1ac3ca1f61708947d0fc6725dfb229acae13dc9c6454e9f441eab891" width="80">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://yt3.googleusercontent.com/ytc/AIdro_lwJzXEW-v6VpQvyBC9rZ-T30_YXQtI-WGyj9rNMCu09g=s160-c-k-c0x00ffffff-no-rj" width="80">
-
 </div>
 
 <div align="center">
